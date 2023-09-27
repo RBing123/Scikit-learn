@@ -11,7 +11,7 @@
 用numpy做資料處理
 
 # 模板
-'''
+```
 %matplotlib inline
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -25,5 +25,5 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LogisticRegression
 from sklearn.cluster import KMeans
-'''
+```
 
